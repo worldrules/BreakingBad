@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f261c83f3528023d1a6a0d9115bac842",
+    "revision": "f048b583ab16bcc7bf22c61704d5cd58",
     "url": "/BreakingBad/index.html"
   },
   {
-    "revision": "8b1ecc933b4ee05d7b91",
+    "revision": "109b87b1d7a7677f6a29",
     "url": "/BreakingBad/static/css/main.57beca5b.chunk.css"
   },
   {
-    "revision": "fc47335394cd33af0151",
-    "url": "/BreakingBad/static/js/2.4b7ce4ae.chunk.js"
+    "revision": "476d8d8c9a4892dc04b4",
+    "url": "/BreakingBad/static/js/2.1f06efe9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/BreakingBad/static/js/2.4b7ce4ae.chunk.js.LICENSE.txt"
+    "url": "/BreakingBad/static/js/2.1f06efe9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b1ecc933b4ee05d7b91",
-    "url": "/BreakingBad/static/js/main.427bde4d.chunk.js"
+    "revision": "109b87b1d7a7677f6a29",
+    "url": "/BreakingBad/static/js/main.48b1fd1a.chunk.js"
   },
   {
-    "revision": "05f636a048447a995045",
-    "url": "/BreakingBad/static/js/runtime-main.8bbbeaee.js"
+    "revision": "0ba39158a9d734fb1bca",
+    "url": "/BreakingBad/static/js/runtime-main.a3b40765.js"
   },
   {
     "revision": "1be2d3a0dc2064fe215cebb23799d503",
