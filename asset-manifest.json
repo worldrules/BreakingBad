@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1f44aed.chunk.css",
-    "main.js": "/static/js/main.427bde4d.chunk.js",
-    "main.js.map": "/static/js/main.427bde4d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.71f22666.js",
-    "runtime-main.js.map": "/static/js/runtime-main.71f22666.js.map",
-    "static/js/2.4b7ce4ae.chunk.js": "/static/js/2.4b7ce4ae.chunk.js",
-    "static/js/2.4b7ce4ae.chunk.js.map": "/static/js/2.4b7ce4ae.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e183b60abe7463c6396fbc49150fc119.js": "/precache-manifest.e183b60abe7463c6396fbc49150fc119.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b1f44aed.chunk.css.map": "/static/css/main.b1f44aed.chunk.css.map",
-    "static/js/2.4b7ce4ae.chunk.js.LICENSE.txt": "/static/js/2.4b7ce4ae.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/bg.1be2d3a0.jpg",
-    "static/media/logo.png": "/static/media/logo.3795f66d.png",
-    "static/media/spinner.gif": "/static/media/spinner.235b9b3e.gif"
+    "main.css": "/breakingbad/static/css/main.39369344.chunk.css",
+    "main.js": "/breakingbad/static/js/main.427bde4d.chunk.js",
+    "main.js.map": "/breakingbad/static/js/main.427bde4d.chunk.js.map",
+    "runtime-main.js": "/breakingbad/static/js/runtime-main.e09d8a2d.js",
+    "runtime-main.js.map": "/breakingbad/static/js/runtime-main.e09d8a2d.js.map",
+    "static/js/2.4b7ce4ae.chunk.js": "/breakingbad/static/js/2.4b7ce4ae.chunk.js",
+    "static/js/2.4b7ce4ae.chunk.js.map": "/breakingbad/static/js/2.4b7ce4ae.chunk.js.map",
+    "index.html": "/breakingbad/index.html",
+    "precache-manifest.e1255bd5d6f4c58672805248979b32b8.js": "/breakingbad/precache-manifest.e1255bd5d6f4c58672805248979b32b8.js",
+    "service-worker.js": "/breakingbad/service-worker.js",
+    "static/css/main.39369344.chunk.css.map": "/breakingbad/static/css/main.39369344.chunk.css.map",
+    "static/js/2.4b7ce4ae.chunk.js.LICENSE.txt": "/breakingbad/static/js/2.4b7ce4ae.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakingbad/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/breakingbad/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/breakingbad/static/media/spinner.235b9b3e.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.71f22666.js",
+    "static/js/runtime-main.e09d8a2d.js",
     "static/js/2.4b7ce4ae.chunk.js",
-    "static/css/main.b1f44aed.chunk.css",
+    "static/css/main.39369344.chunk.css",
     "static/js/main.427bde4d.chunk.js"
   ]
 }
